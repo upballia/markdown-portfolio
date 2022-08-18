@@ -1,6 +1,6 @@
 # Skills
 
-Below is a list of my technical skills:
+Below is a _list_ of my **technical skills**:
 
 ##  Programming Languages
     - Python
